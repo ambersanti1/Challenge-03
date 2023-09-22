@@ -1,0 +1,3 @@
+# Challege-03
+Challenge belonging to week 03
+This set of documents code for a web page that generates a random password according to the user requirements. The user can choose the length of the password and decide whether it includes lowercase, uppercase, numbers or special characters. If the password is less than 8 digits or more than 128 digits, an alert window opens up to inform the user to choose a length between 8 and 128. Also, if the user decides not to choose a character type, a window alert opens up to ask the user to choose one character at least.  
